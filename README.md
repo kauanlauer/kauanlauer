@@ -1,6 +1,4 @@
-Claro, vou integrar essas informações ao seu perfil:
-
-- 👋 Olá, sou @kauanlauer.
+- 👋 Olá, sou @kauanlauer (Kauan Lauer). 
 - 👀 Tenho interesse em trabalhar tanto na área da infraestrutura quanto na programação. Faço serviços autônomos de criação de sites, formatações e manutenções em computadores e notebooks.
 - 🌱 Estou atualmente cursando A.D.S (Análise e Desenvolvimento de Sistemas).
 - 💞️ Estou buscando colaborar em projetos que envolvam desenvolvimento web e infraestrutura.
